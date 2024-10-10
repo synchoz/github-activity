@@ -1,0 +1,26 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "github user activity last 90 days",
+  "main": "bin/index.js",
+  "bin": {
+    "github-activity": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synchoz/github-activity.git"
+  },
+  "keywords": [
+    "cli",
+    "nodejs"
+  ],
+  "author": "dima varo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synchoz/github-activity/issues"
+  },
+  "homepage": "https://github.com/synchoz/github-activity#readme"
+}
